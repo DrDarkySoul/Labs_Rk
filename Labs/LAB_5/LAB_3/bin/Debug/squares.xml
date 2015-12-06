@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfSquare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Square>
+    <Name>Square</Name>
+    <Perimeter>20</Perimeter>
+    <Area>25</Area>
+    <side>5</side>
+    <Side>5</Side>
+  </Square>
+  <Square>
+    <Name>Square</Name>
+    <Perimeter>48</Perimeter>
+    <Area>144</Area>
+    <side>12</side>
+    <Side>12</Side>
+  </Square>
+  <Square>
+    <Name>Square</Name>
+    <Perimeter>20</Perimeter>
+    <Area>25</Area>
+    <side>5</side>
+    <Side>5</Side>
+  </Square>
+</ArrayOfSquare>

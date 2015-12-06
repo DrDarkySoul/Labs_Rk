@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfTriangle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Triangle>
+    <Name>Triangle</Name>
+    <Perimeter>12</Perimeter>
+    <Area>6</Area>
+    <sideAB>5</sideAB>
+    <sideBC>4</sideBC>
+    <sideCA>3</sideCA>
+    <SideAB>5</SideAB>
+    <SideBC>4</SideBC>
+    <SideCA>3</SideCA>
+  </Triangle>
+  <Triangle>
+    <Name>Triangle</Name>
+    <Perimeter>21</Perimeter>
+    <Area>17.412280149365849</Area>
+    <sideAB>5</sideAB>
+    <sideBC>9</sideBC>
+    <sideCA>7</sideCA>
+    <SideAB>5</SideAB>
+    <SideBC>9</SideBC>
+    <SideCA>7</SideCA>
+  </Triangle>
+  <Triangle>
+    <Name>Triangle</Name>
+    <Perimeter>12</Perimeter>
+    <Area>6</Area>
+    <sideAB>5</sideAB>
+    <sideBC>4</sideBC>
+    <sideCA>3</sideCA>
+    <SideAB>5</SideAB>
+    <SideBC>4</SideBC>
+    <SideCA>3</SideCA>
+  </Triangle>
+</ArrayOfTriangle>

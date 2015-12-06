@@ -1,0 +1,6 @@
+C:\Users\Ришат\Desktop\Папка\C#\CryptoThreads\CryptoThreads\bin\Debug\CryptoThreads.exe.config
+C:\Users\Ришат\Desktop\Папка\C#\CryptoThreads\CryptoThreads\bin\Debug\CryptoThreads.exe
+C:\Users\Ришат\Desktop\Папка\C#\CryptoThreads\CryptoThreads\bin\Debug\CryptoThreads.pdb
+C:\Users\Ришат\Desktop\Папка\C#\CryptoThreads\CryptoThreads\obj\Debug\CryptoThreads.exe
+C:\Users\Ришат\Desktop\Папка\C#\CryptoThreads\CryptoThreads\obj\Debug\CryptoThreads.pdb
+C:\Users\Ришат\Desktop\Папка\C#\CryptoThreads\CryptoThreads\obj\Debug\CryptoThreads.csprojResolveAssemblyReference.cache

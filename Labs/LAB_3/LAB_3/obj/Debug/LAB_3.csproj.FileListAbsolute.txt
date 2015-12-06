@@ -1,0 +1,8 @@
+C:\Users\Влад\Desktop\ВУЗ\Программирование\C#\LAB_3\LAB_3\bin\Debug\LAB_3.exe.config
+C:\Users\Влад\Desktop\ВУЗ\Программирование\C#\LAB_3\LAB_3\obj\Debug\LAB_3.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\ВУЗ\Программирование\C#\LAB_3\LAB_3\bin\Debug\LAB_3.exe
+C:\Users\Влад\Desktop\ВУЗ\Программирование\C#\LAB_3\LAB_3\bin\Debug\LAB_3.pdb
+C:\Users\Влад\Desktop\ВУЗ\Программирование\C#\LAB_3\LAB_3\obj\Debug\LAB_3.exe
+C:\Users\Влад\Desktop\ВУЗ\Программирование\C#\LAB_3\LAB_3\obj\Debug\LAB_3.pdb
+C:\Users\Ришат\Desktop\Папка\C#\LAB_3\LAB_3\bin\Debug\LAB_3.exe.config
+C:\Users\Ришат\Desktop\Папка\C#\LAB_3\LAB_3\obj\Debug\LAB_3.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ришат\Desktop\Папка\C#\Многопоточность\Многопоточность\bin\Debug\Многопоточность.exe.config
+C:\Users\Ришат\Desktop\Папка\C#\Многопоточность\Многопоточность\bin\Debug\Многопоточность.exe
+C:\Users\Ришат\Desktop\Папка\C#\Многопоточность\Многопоточность\bin\Debug\Многопоточность.pdb
+C:\Users\Ришат\Desktop\Папка\C#\Многопоточность\Многопоточность\obj\Debug\Многопоточность.csprojResolveAssemblyReference.cache
+C:\Users\Ришат\Desktop\Папка\C#\Многопоточность\Многопоточность\obj\Debug\Многопоточность.exe
+C:\Users\Ришат\Desktop\Папка\C#\Многопоточность\Многопоточность\obj\Debug\Многопоточность.pdb
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Многопоточность\Многопоточность\bin\Debug\Многопоточность.exe.config
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Многопоточность\Многопоточность\obj\Debug\Многопоточность.exe
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Многопоточность\Многопоточность\obj\Debug\Многопоточность.pdb
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Многопоточность\Многопоточность\bin\Debug\Многопоточность.exe
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Многопоточность\Многопоточность\bin\Debug\Многопоточность.pdb
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Многопоточность\Многопоточность\obj\Debug\Многопоточность.csprojResolveAssemblyReference.cache

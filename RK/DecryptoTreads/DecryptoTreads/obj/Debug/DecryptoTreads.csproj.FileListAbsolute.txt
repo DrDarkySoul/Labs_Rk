@@ -1,0 +1,6 @@
+C:\Users\Ришат\Desktop\Папка\C#\DecryptoTreads\DecryptoTreads\bin\Debug\DecryptoTreads.exe.config
+C:\Users\Ришат\Desktop\Папка\C#\DecryptoTreads\DecryptoTreads\bin\Debug\DecryptoTreads.exe
+C:\Users\Ришат\Desktop\Папка\C#\DecryptoTreads\DecryptoTreads\bin\Debug\DecryptoTreads.pdb
+C:\Users\Ришат\Desktop\Папка\C#\DecryptoTreads\DecryptoTreads\obj\Debug\DecryptoTreads.exe
+C:\Users\Ришат\Desktop\Папка\C#\DecryptoTreads\DecryptoTreads\obj\Debug\DecryptoTreads.pdb
+C:\Users\Ришат\Desktop\Папка\C#\DecryptoTreads\DecryptoTreads\obj\Debug\DecryptoTreads.csprojResolveAssemblyReference.cache

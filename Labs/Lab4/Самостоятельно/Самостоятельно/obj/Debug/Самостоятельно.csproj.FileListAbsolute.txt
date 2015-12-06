@@ -1,0 +1,7 @@
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Самостоятельно\Самостоятельно\bin\Debug\Самостоятельно.exe.config
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Самостоятельно\Самостоятельно\bin\Debug\Самостоятельно.exe
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Самостоятельно\Самостоятельно\bin\Debug\Самостоятельно.pdb
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Самостоятельно\Самостоятельно\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Самостоятельно\Самостоятельно\obj\Debug\Самостоятельно.csprojResolveAssemblyReference.cache
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Самостоятельно\Самостоятельно\obj\Debug\Самостоятельно.exe
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Самостоятельно\Самостоятельно\obj\Debug\Самостоятельно.pdb

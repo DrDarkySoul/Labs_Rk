@@ -1,0 +1,6 @@
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Task Parallel Library\Task Parallel Library\bin\Debug\Task Parallel Library.exe.config
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Task Parallel Library\Task Parallel Library\obj\Debug\Task Parallel Library.csprojResolveAssemblyReference.cache
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Task Parallel Library\Task Parallel Library\bin\Debug\Task Parallel Library.exe
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Task Parallel Library\Task Parallel Library\bin\Debug\Task Parallel Library.pdb
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Task Parallel Library\Task Parallel Library\obj\Debug\Task Parallel Library.exe
+C:\Users\Ришат\Desktop\Папка\C#\Lab4\Task Parallel Library\Task Parallel Library\obj\Debug\Task Parallel Library.pdb

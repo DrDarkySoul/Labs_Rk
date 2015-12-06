@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfCircle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Circle>
+    <Name>Circle</Name>
+    <Perimeter>75.398223686155035</Perimeter>
+    <Area>452.38934211693021</Area>
+    <radius>12</radius>
+    <Radius>12</Radius>
+  </Circle>
+  <Circle>
+    <Name>Circle</Name>
+    <Perimeter>50.26548245743669</Perimeter>
+    <Area>201.06192982974676</Area>
+    <radius>8</radius>
+    <Radius>8</Radius>
+  </Circle>
+  <Circle>
+    <Name>Circle</Name>
+    <Perimeter>37.699111843077517</Perimeter>
+    <Area>113.09733552923255</Area>
+    <radius>6</radius>
+    <Radius>6</Radius>
+  </Circle>
+</ArrayOfCircle>
