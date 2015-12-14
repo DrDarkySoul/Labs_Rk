@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Data" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Data.mdf;Integrated Security=True" SettingsObjectName="Lab_6.Properties.Settings" SettingsPropertyName="DataConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Shiping" Member="Shiping">
+    <Type Name="Shiping">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="shipDate" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="clientId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="employeeId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="paymentDate" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="customerName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="customerAdress" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Shiping_Order" Member="Order" ThisKey="Id" OtherKey="shippingId" Type="Order" />
+      <Association Name="Client_Shiping" Member="Client" ThisKey="clientId" OtherKey="Id" Type="Client" IsForeignKey="true" />
+      <Association Name="Employee_Shiping" Member="Employee" ThisKey="employeeId" OtherKey="Id" Type="Employee" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Product" Member="Product">
+    <Type Name="Product">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="brend" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="unit" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="price" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="presentCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Product_Order" Member="Order" ThisKey="Id" OtherKey="productId" Type="Order" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Order]" Member="Order">
+    <Type Name="Order">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="shippingId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="productId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Shiping_Order" Member="Shiping" ThisKey="shippingId" OtherKey="Id" Type="Shiping" IsForeignKey="true" />
+      <Association Name="Product_Order" Member="Product" ThisKey="productId" OtherKey="Id" Type="Product" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Employee" Member="Employee">
+    <Type Name="Employee">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="lastName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="position" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="birthDate" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="adress" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Employee_Shiping" Member="Shiping" ThisKey="Id" OtherKey="employeeId" Type="Shiping" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Client" Member="Client">
+    <Type Name="Client">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="adress" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="contractNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="annotation" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="Client_Shiping" Member="Shiping" ThisKey="Id" OtherKey="clientId" Type="Shiping" />
+    </Type>
+  </Table>
+</Database>
